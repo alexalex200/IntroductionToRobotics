@@ -3,6 +3,7 @@ Bun venit în Repositoriul Cursului de Introducere in Robotica! 🤖✨ Aici vei
 
 # Table of content
 -[Tema1](#tema1)
+
 -[Tema2](#tema2)
 
 # Tema1
