@@ -16,7 +16,7 @@ Use a separate potentiometer for controlling each color of the RGB LED:Red,Green
 
 ![the picture](Tema1/IMG_6309.png)
 
-![the picture](Tema1/IMG_6309.png)
+![the picture](Tema1/IMG_6310.png)
 
 ## Video
 
@@ -30,9 +30,9 @@ This  assignment  involves  simulating  a  3-floor  elevator  control  system  u
 
 ## Photos
 
-https://photos.app.goo.gl/W8sEV5Qn7YzMUGoi6
+![the picture](Tema1/IMG_6320.png)
 
-https://photos.app.goo.gl/6jcfgiQKgnUMEjvW8
+![the picture](Tema1/IMG_6321.png)
 
 ## Video
 
