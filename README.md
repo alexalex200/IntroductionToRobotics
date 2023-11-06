@@ -6,6 +6,8 @@ Bun venit în Repositoriul Cursului de Introducere in Robotica! 🤖✨ Aici vei
 
 -[Tema2](#tema2)
 
+-[Tema3](#tema3)
+
 # Tema1
 
 ## Requirement
@@ -38,3 +40,17 @@ This  assignment  involves  simulating  a  3-floor  elevator  control  system  u
 
 https://youtu.be/fLic0PvrlHc
 
+# Tema3
+
+## Requirement
+
+The  initial  position  should  be  on  the  DP.  The  currentposition always blinks (irrespective of the fact that the segment is on oroff).  Use the joystick to move from one position to neighbors (see table forcorresponding movement).  Short pressing the button toggles the segmentstate  from  ON  to  OFF  or  from  OFF  to  ON.  Long  pressing  the  buttonresets the entire display by turning all the segments OFF and moving thecurrent position to the decimal point.
+
+## Photos
+
+![the picture](Tema3/IMG_6329.png)
+
+![the picture](Tema3/IMG_6330.png)
+
+## Video
+https://youtu.be/SY8NlSZp4DU
