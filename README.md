@@ -30,9 +30,9 @@ This  assignment  involves  simulating  a  3-floor  elevator  control  system  u
 
 ## Photos
 
-![the picture](Tema1/IMG_6320.png)
+![the picture](Tema2/IMG_6320.png)
 
-![the picture](Tema1/IMG_6321.png)
+![the picture](Tema2/IMG_6321.png)
 
 ## Video
 
