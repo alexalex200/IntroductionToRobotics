@@ -14,7 +14,7 @@ Use a separate potentiometer for controlling each color of the RGB LED:Red,Green
 
 ## Photos
 
-![the picture](../Tema1/IMG_6309.HEIC)
+![the picture](../Tema1/IMG_6309.png)
 
 https://photos.app.goo.gl/UNnu5Fm7mYbPEmXd6
 
