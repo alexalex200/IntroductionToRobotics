@@ -65,9 +65,9 @@ Implement a stopwatch timer using a 4-digit 7-segment display and 3 buttons. The
 
 ## Photos
 
-![the picture](Tema3/IMG_6337.jpeg)
+![the picture](Tema4/IMG_6337.jpeg)
 
-![the picture](Tema3/IMG_6338.jpeg)
+![the picture](Tema4/IMG_6338.jpeg)
 
 ## Video
 https://youtu.be/jn0bbRb7Vcg
