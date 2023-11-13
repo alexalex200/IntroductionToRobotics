@@ -8,6 +8,8 @@ Bun venit în Repositoriul Cursului de Introducere in Robotica! 🤖✨ Aici vei
 
 -[Tema3](#tema3)
 
+-[Tema4](#tema4)
+
 # Tema1
 
 ## Requirement
@@ -54,3 +56,18 @@ The  initial  position  should  be  on  the  DP.  The  currentposition always bl
 
 ## Video
 https://youtu.be/SY8NlSZp4DU
+
+# Tema4
+
+## Requirement
+
+Implement a stopwatch timer using a 4-digit 7-segment display and 3 buttons. The timer should count in 10ths of a second and include a lap-saving functionality. The starting value of the 4-digit 7-segment display should be "000.0". Button functionalities include starting/pausing (Button 1), resetting (Button 2, in pause mode) and saving laps (Button 3, in counting mode, up to 4 laps). During the timer counter, pressing the lap button should save that timer’s value in memory. In Pause Mode, the lap flag button doesn’t work, and pressing the reset button resets the timer to "000.0". After reset, pressing the flag buttons should cycle through the lap times, and continuous pressing should cycle through them continuously. Pressing reset in this state resets flags and the timer to "000.0".
+
+## Photos
+
+![the picture](Tema3/IMG_6337.jpeg)
+
+![the picture](Tema3/IMG_6338.jpeg)
+
+## Video
+https://youtu.be/jn0bbRb7Vcg
