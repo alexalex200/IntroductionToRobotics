@@ -10,6 +10,8 @@ Bun venit în Repositoriul Cursului de Introducere in Robotica! 🤖✨ Aici vei
 
 -[Tema4](#tema4)
 
+-[Tema5](#tema5)
+
 # Tema1
 
 ## Requirement
@@ -71,3 +73,18 @@ Implement a stopwatch timer using a 4-digit 7-segment display and 3 buttons. The
 
 ## Video
 https://youtu.be/jn0bbRb7Vcg
+
+# Tema5
+
+## Requirement
+
+Develop a ”Smart Environment Monitor and Logger” using Arduino.  This sys-tem will utilize various sensors to gather environmental data, log this data intoEEPROM, and provide both visual feedback via an RGB LED and user interac-tion through a Serial Menu.
+
+## Photos
+
+![the picture](Tema5/IMG_6350.png)
+
+
+## Video
+
+https://youtu.be/OL2FCrm9KL0
