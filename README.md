@@ -82,7 +82,7 @@ Develop a ”Smart Environment Monitor and Logger” using Arduino.  This sys-te
 
 ## Photos
 
-![the picture](Tema5/IMG_6350.png)
+![the picture](Tema5/IMG_6350.jpeg)
 
 
 ## Video
