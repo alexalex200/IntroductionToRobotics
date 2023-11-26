@@ -12,6 +12,8 @@ Bun venit în Repositoriul Cursului de Introducere in Robotica! 🤖✨ Aici vei
 
 -[Tema5](#tema5)
 
+-[Tema6](#tema6)
+
 # Tema1
 
 ## Requirement
@@ -88,3 +90,19 @@ Develop a ”Smart Environment Monitor and Logger” using Arduino.  This sys-te
 ## Video
 
 https://youtu.be/OL2FCrm9KL0
+
+# Tema6
+
+## Requirement
+
+Develop a small game on the 8x8 matrix.  The game must have at least 3 typesof elements:  player (blinks slowly),  bombs/bullets (blinks fast),  wall (doesn’tblink). Thebasic idea is that you generate walls on the map (50% - 75% of the map) and thenyou move around with the player and destroy them.
+
+## Photos
+
+![the picture](Tema6/IMG_6356.jpeg)
+
+![the picture](Tema6/IMG_6357.jpeg)
+
+## Video
+
+https://youtu.be/wu_5dZWaBuI
