@@ -14,6 +14,8 @@ Bun venit în Repositoriul Cursului de Introducere in Robotica! 🤖✨ Aici vei
 
 -[Tema6](#tema6)
 
+-[Tema7](#tema7)
+
 # Tema1
 
 ## Requirement
@@ -102,6 +104,20 @@ Develop a small game on the 8x8 matrix.  The game must have at least 3 typesof e
 ![the picture](Tema6/IMG_6356.jpeg)
 
 ![the picture](Tema6/IMG_6357.jpeg)
+
+## Video
+
+https://youtu.be/wu_5dZWaBuI
+
+# Tema7
+
+## Requirement
+
+  The tasks include displaying an introductory message upon project startup, creating a menu with options to start the game, adjust settings (LCD and Matrix brightness control), and provide details about the game's creators. Additionally, students must implement an end message for when the game concludes, waiting for a user prompt before returning to the main menu. During gameplay, dynamic details like time, level, and lives should be displayed, and an end game/level functionality must be implemented.
+
+## Photos
+
+![the picture](Tema6/IMG_6373.jpeg)
 
 ## Video
 
