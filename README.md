@@ -117,7 +117,7 @@ https://youtu.be/wu_5dZWaBuI
 
 ## Photos
 
-![the picture](Tema6/IMG_6373.jpeg)
+![the picture](Tema7/IMG_6373.jpeg)
 
 ## Video
 
